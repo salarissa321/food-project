@@ -1,0 +1,115 @@
+
+
+
+
+
+
+
+
+
+.mycontainer{
+
+}
+
+.mynav{
+
+
+}
+
+.myimg{
+
+color: black;
+}
+
+.mylink{
+margin: 20px;
+color: black;
+font-family: "DM Sans",sans-serif;
+font-size: 16px;
+line-height: 1.44em;
+font-weight: 500;
+letter-spacing: -.02em;
+}
+
+
+
+.myicon{
+    margin-right: 150px;
+    color: black;
+}
+
+.myschrift{
+    z-index: 9;
+    font-family: "DM Sans";
+    text-transform: uppercase;
+    height: auto;
+    color: rgb(51, 51, 51);
+    text-decoration: none;
+    white-space: normal;
+    width: 255px;
+    min-height: 0px;
+    min-width: 0px;
+    max-height: none;
+    max-width: none;
+    text-align: left;
+    line-height: 11px;
+    letter-spacing: 3px;
+    font-weight: 700;
+    font-size: 11px;
+    transform-origin: 50% 50% 0px;
+    opacity: 1;
+    transform: translate(0px);
+    visibility: visible;
+    margin-left: 20px;
+}
+
+.myschreiben{
+    z-index: 10;
+    font-family: "DM Sans";
+    height: auto;
+    color: rgb(29, 29, 31);
+    text-decoration: none;
+    white-space: normal;
+    width: 532px;
+    min-height: 0px;
+    min-width: 0px;
+    max-height: none;
+    max-width: none;
+    text-align: left;
+    line-height: 70px;
+    letter-spacing: -3px;
+    font-weight: 700;
+    font-size: 65px;
+    transform-origin: 50% 50% 0px;
+    opacity: 1;
+    transform: translate(0px);
+    visibility: visible;
+    margin-left: 20px;
+}
+
+.mybtn{
+position: relative;
+display: inline-block;
+vertical-align: middle;
+width: auto;
+margin: 0;
+font-family: "DM Sans",sans-serif;
+font-size: 16px;
+line-height: 2em;
+color: #fff;
+background-color: #1d1d1f;
+border: 1px solid transparent;
+cursor: pointer;
+text-decoration: none;
+border-radius: 0;
+padding: 9px 73px;
+font-weight: 500;
+margin-left: 20px;
+}
+
+.myimg2{
+    position: relative;
+height: 110%;
+width: 110%;
+margin-left: 80px;
+}
